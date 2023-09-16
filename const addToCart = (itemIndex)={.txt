@@ -1,0 +1,5 @@
+const addToCart = (itemIndex)=>{
+let items=localStorage.get("product");
+itmes.push(container[itemIndex])
+localStorage.set({"products",items})
+}
